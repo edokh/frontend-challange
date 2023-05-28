@@ -23,7 +23,7 @@ body {
 
 .container {
     background: var(--white);
-    width: 260px;
+    width: 220px;
     /* margin-left: auto;
     margin-right: auto; */
     margin: auto;
@@ -43,7 +43,7 @@ body {
 
 .texts h3 {
     color: var(--dark_blue);
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .texts p {
